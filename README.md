@@ -63,5 +63,4 @@ Type Tutor recreates the beloved MonkeyType experience as a standalone JavaFX de
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/shashank-kodali/Type-Tutor.git
-cd Type-Tutor
+git clone https://github.com/purnasankardwaram93-source/TYPE-TUTOR-APP.git
